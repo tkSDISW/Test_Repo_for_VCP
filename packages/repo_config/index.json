@@ -1,6 +1,6 @@
 {
   "package": "repo_config",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "note-0001-14a3550a0c424ae4a1171d606fb141e2",
@@ -17,6 +17,14 @@
       "title": "## Behavior Config \u2014 Repo-Wide",
       "tags": [],
       "file_path": "entries/bcfg-0001-256f868cbb3341be895e31f13ca78e82.md"
+    },
+    {
+      "id": "ocfg-0001-eeaf80134ac649f495de4a185ea9ab5e",
+      "type": "observation_configuration",
+      "timestamp": "2026-10-23T00:55:12Z",
+      "title": "## Observation Configuration \u2014 Standard Shape and Named Subtypes",
+      "tags": [],
+      "file_path": "entries/ocfg-0001-eeaf80134ac649f495de4a185ea9ab5e.md"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "package": "repo_config",
-  "entry_count": 5,
+  "entry_count": 6,
   "entries": [
     {
       "id": "note-0001-14a3550a0c424ae4a1171d606fb141e2",
@@ -41,6 +41,14 @@
       "title": "## Lesson Learned Configuration \u2014 Standard Shape",
       "tags": [],
       "file_path": "entries/lcfg-0001-238fe6e47f254bc69fa0db6ab501038a.md"
+    },
+    {
+      "id": "ncfg-0001-3c60f9c54300447a9eb980ec263d8d33",
+      "type": "note_configuration",
+      "timestamp": "2026-10-23T00:55:25Z",
+      "title": "## Note Configuration \u2014 Standard Shape (covers note, milestone, issue)",
+      "tags": [],
+      "file_path": "entries/ncfg-0001-3c60f9c54300447a9eb980ec263d8d33.md"
     }
   ]
 }

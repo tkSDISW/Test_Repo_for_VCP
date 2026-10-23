@@ -1,6 +1,6 @@
 {
   "package": "repo_config",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-14a3550a0c424ae4a1171d606fb141e2",
@@ -9,6 +9,14 @@
       "title": "## Purpose \u2014 Test_Repo_for_VCP",
       "tags": [],
       "file_path": "entries/note-0001-14a3550a0c424ae4a1171d606fb141e2.md"
+    },
+    {
+      "id": "bcfg-0001-256f868cbb3341be895e31f13ca78e82",
+      "type": "behavior_config",
+      "timestamp": "2026-10-23T00:55:02Z",
+      "title": "## Behavior Config \u2014 Repo-Wide",
+      "tags": [],
+      "file_path": "entries/bcfg-0001-256f868cbb3341be895e31f13ca78e82.md"
     }
   ]
 }

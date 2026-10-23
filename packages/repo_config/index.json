@@ -1,0 +1,14 @@
+{
+  "package": "repo_config",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-14a3550a0c424ae4a1171d606fb141e2",
+      "type": "purpose",
+      "timestamp": "2026-10-23T00:54:50Z",
+      "title": "## Purpose \u2014 Test_Repo_for_VCP",
+      "tags": [],
+      "file_path": "entries/note-0001-14a3550a0c424ae4a1171d606fb141e2.md"
+    }
+  ]
+}

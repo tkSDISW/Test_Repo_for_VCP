@@ -1,6 +1,6 @@
 {
   "package": "repo_config",
-  "entry_count": 6,
+  "entry_count": 7,
   "entries": [
     {
       "id": "note-0001-14a3550a0c424ae4a1171d606fb141e2",
@@ -49,6 +49,14 @@
       "title": "## Note Configuration \u2014 Standard Shape (covers note, milestone, issue)",
       "tags": [],
       "file_path": "entries/ncfg-0001-3c60f9c54300447a9eb980ec263d8d33.md"
+    },
+    {
+      "id": "nbcfg-0001-b233c132f6584cfd9d368a9d6050b08c",
+      "type": "notebook_config",
+      "timestamp": "2026-10-23T00:55:27Z",
+      "title": "## Notebook Config",
+      "tags": [],
+      "file_path": "entries/nbcfg-0001-b233c132f6584cfd9d368a9d6050b08c.md"
     }
   ]
 }

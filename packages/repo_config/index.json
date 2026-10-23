@@ -1,6 +1,6 @@
 {
   "package": "repo_config",
-  "entry_count": 3,
+  "entry_count": 4,
   "entries": [
     {
       "id": "note-0001-14a3550a0c424ae4a1171d606fb141e2",
@@ -25,6 +25,14 @@
       "title": "## Observation Configuration \u2014 Standard Shape and Named Subtypes",
       "tags": [],
       "file_path": "entries/ocfg-0001-eeaf80134ac649f495de4a185ea9ab5e.md"
+    },
+    {
+      "id": "dcfg-0001-44f3100ea12547589bdbc2d012f42058",
+      "type": "decision_configuration",
+      "timestamp": "2026-10-23T00:55:16Z",
+      "title": "## Decision Configuration \u2014 Standard Shape",
+      "tags": [],
+      "file_path": "entries/dcfg-0001-44f3100ea12547589bdbc2d012f42058.md"
     }
   ]
 }

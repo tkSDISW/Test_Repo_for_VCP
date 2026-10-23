@@ -1,6 +1,6 @@
 {
   "package": "repo_config",
-  "entry_count": 4,
+  "entry_count": 5,
   "entries": [
     {
       "id": "note-0001-14a3550a0c424ae4a1171d606fb141e2",
@@ -33,6 +33,14 @@
       "title": "## Decision Configuration \u2014 Standard Shape",
       "tags": [],
       "file_path": "entries/dcfg-0001-44f3100ea12547589bdbc2d012f42058.md"
+    },
+    {
+      "id": "lcfg-0001-238fe6e47f254bc69fa0db6ab501038a",
+      "type": "lesson_learned_configuration",
+      "timestamp": "2026-10-23T00:55:20Z",
+      "title": "## Lesson Learned Configuration \u2014 Standard Shape",
+      "tags": [],
+      "file_path": "entries/lcfg-0001-238fe6e47f254bc69fa0db6ab501038a.md"
     }
   ]
 }

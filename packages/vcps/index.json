@@ -1,0 +1,14 @@
+{
+  "package": "vcps",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "obs-0001-7af616106e7148f1aabc97e19d36982b",
+      "type": "observation",
+      "timestamp": "2026-10-27T14:51:09Z",
+      "title": "## VCP-0001: After Treatment",
+      "tags": [],
+      "file_path": "entries/obs-0001-7af616106e7148f1aabc97e19d36982b.md"
+    }
+  ]
+}

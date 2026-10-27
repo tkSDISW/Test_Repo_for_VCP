@@ -1,6 +1,6 @@
 {
   "package": "vcps",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "obs-0001-7af616106e7148f1aabc97e19d36982b",
@@ -9,6 +9,14 @@
       "title": "## VCP-0001: After Treatment",
       "tags": [],
       "file_path": "entries/obs-0001-7af616106e7148f1aabc97e19d36982b.md"
+    },
+    {
+      "id": "obs-0002-19b1f15fdaf542c9943c27bc785ecfa7",
+      "type": "observation",
+      "timestamp": "2026-10-27T15:57:18Z",
+      "title": "## VCP-0002: AFT Canister",
+      "tags": [],
+      "file_path": "entries/obs-0002-19b1f15fdaf542c9943c27bc785ecfa7.md"
     }
   ]
 }
